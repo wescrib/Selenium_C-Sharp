@@ -1,0 +1,12 @@
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\SetupEnv.exe.config
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\SetupEnv.exe
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\SetupEnv.pdb
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\WebDriver.dll
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\WebDriver.Support.dll
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\WebDriver.xml
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\bin\Debug\WebDriver.Support.xml
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\obj\Debug\SetupEnv.csprojAssemblyReference.cache
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\obj\Debug\SetupEnv.csproj.CoreCompileInputs.cache
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\obj\Debug\SetupEnv.csproj.CopyComplete
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\obj\Debug\SetupEnv.exe
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\SetupEnv\SetupEnv\obj\Debug\SetupEnv.pdb

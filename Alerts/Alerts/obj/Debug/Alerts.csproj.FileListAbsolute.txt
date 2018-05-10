@@ -1,0 +1,12 @@
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\Alerts.exe.config
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\Alerts.exe
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\Alerts.pdb
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\WebDriver.dll
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\WebDriver.Support.dll
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\WebDriver.xml
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\bin\Debug\WebDriver.Support.xml
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\obj\Debug\Alerts.csprojAssemblyReference.cache
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\obj\Debug\Alerts.csproj.CoreCompileInputs.cache
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\obj\Debug\Alerts.csproj.CopyComplete
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\obj\Debug\Alerts.exe
+C:\Users\william.scribner\OneDrive - REI Systems Inc\Desktop\SeleniumU\Alerts\Alerts\obj\Debug\Alerts.pdb
